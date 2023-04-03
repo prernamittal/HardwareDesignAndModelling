@@ -1,5 +1,5 @@
-# VerilogCodes
-The above verilog codes are writen with gedit on Ubuntu using the following commands in terminal:
+# Hardware Design And Modelling
+The verilog codes are writen with gedit on Ubuntu using the following commands in terminal:
 
 <h3>Open gedit</h3>
 <pre>gedit module.v</pre>
